@@ -29,5 +29,4 @@ public class LogTraceBasicHandler implements InvocationHandler {
             throw e;
         }
     }
-    }
 }
